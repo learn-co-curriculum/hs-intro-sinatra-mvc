@@ -1,5 +1,5 @@
 ---
-tags: ruby, kids, intro
+tags: ruby advanced, kids, intro, sinatra, mvc, PEP
 languages: ruby
 type: intro
 ---
