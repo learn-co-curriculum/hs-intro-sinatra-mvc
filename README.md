@@ -1,8 +1,4 @@
----
-tags: ruby advanced, kids, intro, sinatra, mvc, PEP
-languages: ruby
-type: intro
----
+
 
 ### Students Will Be Able To...
 * Explain why we use Model View Controller (MVC) architecture
