@@ -21,3 +21,5 @@ We are always here to help, but learning to problem solve on your own is a REALL
 ### Now let's get reaaaaaadddddy to Ruuuuuuby!
 
 We’re going to spend the next few weeks taking your skills to the next level by building our own version of Twitter - Fwitter? - from the ground up. Before we get fancy though, we need to make sure that our foundation is solid. Today we'll get your basic Ruby skills back up to speed, review the principles of MVC, and start building our Sinatra project. 
+
+<a href='https://learn.co/lessons/hs-intro-sinatra-mvc' data-visibility='hidden'>View this lesson on Learn.co</a>
